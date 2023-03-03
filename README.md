@@ -1,6 +1,6 @@
 👋 Hi, I’m Ash Darnell-Fish @AshDF91
 👀 Clinical Research Fellow (DPhil) at Uni of Oxford
-🌱 Interested in clinical prediction modelling using statistical learning and machine learning
+🌱 Interested in clinical prediction modelling using statistical and machine learning
 🐱‍🏍 Competing risks models, pseudovalues, model calibration, Bayesian optimisation, adapting ML models 
    for time-to-event/competing risks settings, assessing model stability/transportability
 
